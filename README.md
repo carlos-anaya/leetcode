@@ -32,6 +32,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [124-Binary Tree Maximum Path Sum](problems/124-Binary%20Tree%20Maximum%20Path%20Sum.md) **Hard**
 - [144-Binary Tree Preorder Traversal](problems/144-Binary%20Tree%20Preorder%20Traversal.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
+- [993-Cousins in Binary Tree](problems/993-Cousins%20in%20Binary%20Tree.md) **Easy**
 - [1008-Construct Binary Search Tree from Preorder Traversal](problems/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)
 - [1110-Delete Nodes And Return Forest](problems/1110-Delete%20Nodes%20And%20Return%20Forest.md) **Medium**
 
