@@ -68,6 +68,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [678-Valid Parenthesis String](problems/678-Valid%20Parenthesis%20String.md) **Medium**
 
 ## Backtracking
+- [79-Word Search](problems/79-Word%20Search.md) **Medium**
 - [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
 - [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
 
