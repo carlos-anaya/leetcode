@@ -20,6 +20,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [394-Decode String](problems/394-Decode%20String.md) **Medium**
 - [876-Middle of the Linked List](problems/876-Middle%20of%20the%20Linked%20List.md) **Easy**
 - [1019-Next Greater Node In Linked List](problems/1019-Next%20Greater%20Node%20In%20Linked%20List.md) **Medium**
+- [1209-Remove All Adjacent Duplicates in String II](problems/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) **Medium**
 
 ## Stack
 - [84-Largest Rectangle in Histogram](problems/84-Largest%20Rectangle%20in%20Histogram.md) **Hard**
@@ -27,13 +28,14 @@ Solutions in Go & Java of some Leetcode problems.
 - [394-Decode String](problems/394-Decode%20String.md) **Medium**
 - [739-Daily Temperatures](problems/739-Daily%20Temperatures.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
+- [1209-Remove All Adjacent Duplicates in String II](problems/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) **Medium**
 
 ## Tree
 - [124-Binary Tree Maximum Path Sum](problems/124-Binary%20Tree%20Maximum%20Path%20Sum.md) **Hard**
 - [144-Binary Tree Preorder Traversal](problems/144-Binary%20Tree%20Preorder%20Traversal.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
 - [993-Cousins in Binary Tree](problems/993-Cousins%20in%20Binary%20Tree.md) **Easy**
-- [1008-Construct Binary Search Tree from Preorder Traversal](problems/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)
+- [1008-Construct Binary Search Tree from Preorder Traversal](problems/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) **Medium**
 - [1110-Delete Nodes And Return Forest](problems/1110-Delete%20Nodes%20And%20Return%20Forest.md) **Medium**
 
 ## Binary Search
