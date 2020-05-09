@@ -43,6 +43,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [278-First Bad Version](problems/278-First%20Bad%20Version.md) **Easy**
 
 ## Heap
+- [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
 - [1046-Last Stone Weight](problems/1046-Last%20Stone%20Weight.md) **Easy**
 
 ## Graphs
@@ -78,6 +79,9 @@ Solutions in Go & Java of some Leetcode problems.
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
 - [221. Maximal Square](problems/221-Maximal%20Square.md) **Medium**
 - [1143-Longest Common Subsequence](problems/1143-Longest%20Common%20Subsequence.md) **Medium**
+
+## Sorting
+- [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
 
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
