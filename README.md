@@ -11,6 +11,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
+- [1232-Check If It Is a Straight Line](problems/1232-Check%20If%20It%20Is%20a%20Straight%20Line.md) **Easy**
 - [xxx-Counting Elements](problems/xxx-Counting%20Elements.md) **Easy**
 - [xxx-Leftmost Column with at Least a One](problems/xxx-Leftmost%20Column%20with%20at%20Least%20a%20One.md) **Easy**
 - [xxx-Perform String Shifts](problems/xxx-Perform%20String%20Shifts.md) **Easy**
@@ -97,4 +98,5 @@ Solutions in Go & Java of some Leetcode problems.
 - [202-Happy Number](problems/202-Happy%20Number.md) **Easy**
 - [263-Ugly Number](problems/263-Ugly%20Number.md) **Easy**
 - [367-Valid Perfect Square](problems/367-Valid%20Perfect%20Square.md) **Easy**
+- [1232-Check If It Is a Straight Line](problems/1232-Check%20If%20It%20Is%20a%20Straight%20Line.md) **Easy**
 - [xxx-Perform String Shifts](problems/xxx-Perform%20String%20Shifts.md) **Easy**
