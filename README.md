@@ -41,6 +41,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Binary Search
 - [33-Search in Rotated Sorted Array](problems/33-Search%20in%20Rotated%20Sorted%20Array.md) **Easy**
 - [278-First Bad Version](problems/278-First%20Bad%20Version.md) **Easy**
+- [367-Valid Perfect Square](problems/367-Valid%20Perfect%20Square.md) **Easy**
 
 ## Heap
 - [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
@@ -95,4 +96,5 @@ Solutions in Go & Java of some Leetcode problems.
 ## Math
 - [202-Happy Number](problems/202-Happy%20Number.md) **Easy**
 - [263-Ugly Number](problems/263-Ugly%20Number.md) **Easy**
+- [367-Valid Perfect Square](problems/367-Valid%20Perfect%20Square.md) **Easy**
 - [xxx-Perform String Shifts](problems/xxx-Perform%20String%20Shifts.md) **Easy**
