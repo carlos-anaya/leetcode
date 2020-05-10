@@ -7,6 +7,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [122-Best Time to Buy and Sell Stock II](problems/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) **Easy**
 - [169-Majority Element](problems/169-Majority%20Element.md) **Easy**
 - [238-Product of Array Except Self](problems/238-Product%20of%20Array%20Except%20Self.md) **Medium**
+- [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [283-Move Zeroes](problems/283-Move%20Zeroes.md) **Easy**
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
@@ -26,6 +27,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Stack
 - [84-Largest Rectangle in Histogram](problems/84-Largest%20Rectangle%20in%20Histogram.md) **Hard**
 - [155-Min Stack](problems/155-Min%20Stack.md) **Easy**
+- [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [394-Decode String](problems/394-Decode%20String.md) **Medium**
 - [739-Daily Temperatures](problems/739-Daily%20Temperatures.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
@@ -51,6 +53,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Graphs
 - [207-Course Schedule](problems/207-Course%20Schedule.md) **Medium**
 - [210-Course Schedule II](problems/207-Course%20Schedule%20II.md) **Medium**
+- [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [997-Find the Town Judge](problems/997-Find%20the%20Town%20Judge.md) **Easy**
 
 ## Trie
