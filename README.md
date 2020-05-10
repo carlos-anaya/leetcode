@@ -9,6 +9,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [238-Product of Array Except Self](problems/238-Product%20of%20Array%20Except%20Self.md) **Medium**
 - [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [283-Move Zeroes](problems/283-Move%20Zeroes.md) **Easy**
+- [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
@@ -45,6 +46,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [33-Search in Rotated Sorted Array](problems/33-Search%20in%20Rotated%20Sorted%20Array.md) **Easy**
 - [278-First Bad Version](problems/278-First%20Bad%20Version.md) **Easy**
 - [367-Valid Perfect Square](problems/367-Valid%20Perfect%20Square.md) **Easy**
+- [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 
 ## Heap
 - [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
@@ -72,6 +74,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Greedy
 - [55-Jump Game](problems/55-Jump%20Game.md) **Medium**
 - [45-Jump Game II](problems/45-Jump%20Game%20II.md) **Hard**
+- [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 - [678-Valid Parenthesis String](problems/678-Valid%20Parenthesis%20String.md) **Medium**
 
 ## Backtracking
