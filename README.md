@@ -51,6 +51,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Graphs
 - [207-Course Schedule](problems/207-Course%20Schedule.md) **Medium**
 - [210-Course Schedule II](problems/207-Course%20Schedule%20II.md) **Medium**
+- [997-Find the Town Judge](problems/997-Find%20the%20Town%20Judge.md) **Easy**
 
 ## Trie
 - [208-Implement Trie (Prefix Tree)](problems/208-Implement%20Trie%20(Prefix%20Tree).md) **Medium**
