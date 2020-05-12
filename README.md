@@ -50,6 +50,7 @@ Solutions in Go & Java of some Leetcode problems.
 
 ## Heap
 - [347-Top K Frequent Elements](problems/347-Top%20K%20Frequent%20Elements.md) **Medium**
+- [451-Sort Characters By Frequency](problems/451-Sort%20Characters%20By%20Frequency.md) **Medium**
 - [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
 - [1046-Last Stone Weight](problems/1046-Last%20Stone%20Weight.md) **Easy**
 
@@ -93,6 +94,7 @@ Solutions in Go & Java of some Leetcode problems.
 
 ## Sorting
 - [347-Top K Frequent Elements](problems/347-Top%20K%20Frequent%20Elements.md) **Medium**
+- [451-Sort Characters By Frequency](problems/451-Sort%20Characters%20By%20Frequency.md) **Medium**
 - [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
 
 ## Custom Data Structures
