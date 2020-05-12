@@ -47,6 +47,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [278-First Bad Version](problems/278-First%20Bad%20Version.md) **Easy**
 - [367-Valid Perfect Square](problems/367-Valid%20Perfect%20Square.md) **Easy**
 - [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
+- [540-Single Element in a Sorted Array](problems/540-Single%20Element%20in%20a%20Sorted%20Array.md) **Medium**
 
 ## Heap
 - [347-Top K Frequent Elements](problems/347-Top%20K%20Frequent%20Elements.md) **Medium**
@@ -56,7 +57,7 @@ Solutions in Go & Java of some Leetcode problems.
 
 ## Graphs
 - [207-Course Schedule](problems/207-Course%20Schedule.md) **Medium**
-- [210-Course Schedule II](problems/207-Course%20Schedule%20II.md) **Medium**
+- [210-Course Schedule II](problems/210-Course%20Schedule%20II.md) **Medium**
 - [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [997-Find the Town Judge](problems/997-Find%20the%20Town%20Judge.md) **Easy**
 
