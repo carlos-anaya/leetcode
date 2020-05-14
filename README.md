@@ -80,6 +80,9 @@ Solutions in Go & Java of some Leetcode problems.
 - [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 - [678-Valid Parenthesis String](problems/678-Valid%20Parenthesis%20String.md) **Medium**
 
+## Recursion
+- [241-Different Ways to Add Parentheses](problems/241-Different%20Ways%20to%20Add%20Parentheses.md) **Medium**
+
 ## Backtracking
 - [79-Word Search](problems/79-Word%20Search.md) **Medium**
 - [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
