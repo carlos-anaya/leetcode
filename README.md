@@ -21,6 +21,7 @@ Solutions in Go & Java of some Leetcode problems.
 
 ## Linked List
 - [202-Happy Number](problems/202-Happy%20Number.md) **Easy**
+- [328-Odd Even Linked List](problems/328-Odd%20Even%20Linked%20List.md) **Medium**
 - [394-Decode String](problems/394-Decode%20String.md) **Medium**
 - [876-Middle of the Linked List](problems/876-Middle%20of%20the%20Linked%20List.md) **Easy**
 - [1019-Next Greater Node In Linked List](problems/1019-Next%20Greater%20Node%20In%20Linked%20List.md) **Medium**
