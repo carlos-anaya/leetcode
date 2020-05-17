@@ -86,6 +86,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [678-Valid Parenthesis String](problems/678-Valid%20Parenthesis%20String.md) **Medium**
 
 ## Recursion
+- [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
 - [241-Different Ways to Add Parentheses](problems/241-Different%20Ways%20to%20Add%20Parentheses.md) **Medium**
 
 ## Backtracking
@@ -95,6 +96,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [733-Flood Fill](problems/733-Flood%20Fill.md) **Easy**
 
 ## Dynamic Programming
+- [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
 - [55-Jump Game](problems/55-Jump%20Game.md) **Medium**
 - [64-Minimum Path Sum](problems/64-Minimum%20Path%20Sum.md) **Medium**
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
