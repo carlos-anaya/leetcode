@@ -4,7 +4,7 @@ Given a 2D binary matrix filled with 0's and 1's, find the *largest square* cont
 return its area.
 
 - Example:
-> **Input**:
+> **Input**: <br>
 > 1 0 1 0 0 <br>
 > 1 0 **1 1** 1 <br>
 > 1 1 **1 1** 1 <br>
