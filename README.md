@@ -6,6 +6,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [121-Best Time to Buy and Sell Stock](problems/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) **Easy**
 - [122-Best Time to Buy and Sell Stock II](problems/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) **Easy**
 - [169-Majority Element](problems/169-Majority%20Element.md) **Easy**
+- [229-Majority Element II](problems/229-Majority%20Element%20II.md) **Medium**
 - [238-Product of Array Except Self](problems/238-Product%20of%20Array%20Except%20Self.md) **Medium**
 - [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [283-Move Zeroes](problems/283-Move%20Zeroes.md) **Easy**
