@@ -29,7 +29,7 @@ In this case, since we're just dealing with lowercase english characters we need
 an array of frequencies too. Once we have a window of size *len(p)* we check if both arrays are 
 equivalent. Then we move the sliding window, adding a new char and removing the start of the window.
 
-**Time: O(n+p) <br> Space: O(n1**
+**Time: O(n+p) <br> Space: O(1)**
 
 ```go
 func findAnagrams(s string, p string) []int {

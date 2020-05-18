@@ -78,6 +78,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
+- [567-Permutation in String](problems/567-Permutation%20in%20String.md) **Medium**
 - [771-Jewels and Stones](problems/771-Jewels%20and%20Stones.md) **Easy**
 - [xxx-Counting Elements](problems/xxx-Counting%20Elements.md) **Easy**
 
