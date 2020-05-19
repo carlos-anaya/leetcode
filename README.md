@@ -2,6 +2,7 @@
 Solutions in Go & Java of some Leetcode problems.
 
 ## Array
+- [36-Valid Sudoku](problems/36-Valid%20Sudoku.md) **Medium**
 - [53-Maximum Subarray](problems/53-Maximum%20Subarray.md) **Easy**
 - [121-Best Time to Buy and Sell Stock](problems/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) **Easy**
 - [122-Best Time to Buy and Sell Stock II](problems/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) **Easy**
@@ -95,6 +96,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [241-Different Ways to Add Parentheses](problems/241-Different%20Ways%20to%20Add%20Parentheses.md) **Medium**
 
 ## Backtracking
+- [37-Sudoku Solver](problems/37-Sudoku%20Solver.md) **Hard**
 - [79-Word Search](problems/79-Word%20Search.md) **Medium**
 - [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
 - [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
