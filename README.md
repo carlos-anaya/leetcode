@@ -45,6 +45,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Tree
 - [124-Binary Tree Maximum Path Sum](problems/124-Binary%20Tree%20Maximum%20Path%20Sum.md) **Hard**
 - [144-Binary Tree Preorder Traversal](problems/144-Binary%20Tree%20Preorder%20Traversal.md) **Medium**
+- [230-Kth Smallest Element in a BST](problems/230-Kth%20Smallest%20Element%20in%20a%20BST.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
 - [979-Distribute Coins in Binary Tree](problems/979-Distribute%20Coins%20in%20Binary%20Tree.md) **Medium**
 - [993-Cousins in Binary Tree](problems/993-Cousins%20in%20Binary%20Tree.md) **Easy**
