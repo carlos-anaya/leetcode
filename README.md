@@ -118,6 +118,10 @@ Solutions in Go & Java of some Leetcode problems.
 - [451-Sort Characters By Frequency](problems/451-Sort%20Characters%20By%20Frequency.md) **Medium**
 - [973-K Closest Points to Origin](problems/973-K%20Closest%20Points%20to%20Origin.md) **Medium**
 
+## Strings
+- [76-Minimum Window Substring](problems/76-Minimum%20Window%20Substring.md) **Hard**
+- [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
+
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
 - [xxx-First Unique Number](problems/xxx-First%20Unique%20Number.md) *(Queue & HashMap)* **Medium**
