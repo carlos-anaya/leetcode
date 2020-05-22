@@ -109,8 +109,9 @@ Solutions in Go & Java of some Leetcode problems.
 - [55-Jump Game](problems/55-Jump%20Game.md) **Medium**
 - [64-Minimum Path Sum](problems/64-Minimum%20Path%20Sum.md) **Medium**
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
-- [221. Maximal Square](problems/221-Maximal%20Square.md) **Medium**
+- [221-Maximal Square](problems/221-Maximal%20Square.md) **Medium**
 - [1143-Longest Common Subsequence](problems/1143-Longest%20Common%20Subsequence.md) **Medium**
+- [1277-Count Square Submatrices with All Ones](1277-Count%20Square%20Submatrices%20with%20All%20Ones.md) **Medium**
 
 ## Sorting
 - [347-Top K Frequent Elements](problems/347-Top%20K%20Frequent%20Elements.md) **Medium**
