@@ -37,6 +37,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
 - [394-Decode String](problems/394-Decode%20String.md) **Medium**
 - [402-Remove K Digits](problems/402-Remove%20K%20Digits.md) **Medium**
+- [496-Next Greater Element I](problems/496-Next%20Greater%20Element%20I.md) **Easy**
 - [739-Daily Temperatures](problems/739-Daily%20Temperatures.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
 - [901-Online Stock Span](problems/901-Online%20Stock%20Span.md) **Medium**
