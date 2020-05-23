@@ -4,6 +4,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Array
 - [36-Valid Sudoku](problems/36-Valid%20Sudoku.md) **Medium**
 - [53-Maximum Subarray](problems/53-Maximum%20Subarray.md) **Easy**
+- [56-Merge Intervals](problems/56-Merge%20Intervals.md) **Medium**
 - [121-Best Time to Buy and Sell Stock](problems/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) **Easy**
 - [122-Best Time to Buy and Sell Stock II](problems/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) **Easy**
 - [169-Majority Element](problems/169-Majority%20Element.md) **Easy**
