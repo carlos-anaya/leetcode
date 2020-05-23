@@ -123,6 +123,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Strings
 - [76-Minimum Window Substring](problems/76-Minimum%20Window%20Substring.md) **Hard**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
+- [556-Next Greater Element III](problems/496-Next%20Greater%20Element%20III.md) **Medium**
 
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
