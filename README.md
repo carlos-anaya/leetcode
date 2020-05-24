@@ -47,6 +47,9 @@ Solutions in Go & Java of some Leetcode problems.
 - [901-Online Stock Span](problems/901-Online%20Stock%20Span.md) **Medium**
 - [1209-Remove All Adjacent Duplicates in String II](problems/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) **Medium**
 
+## Queue
+- [239-Sliding Window Maximum](problems/239-Sliding%20Window%20Maximum.md) **Hard**
+
 ## Tree
 - [124-Binary Tree Maximum Path Sum](problems/124-Binary%20Tree%20Maximum%20Path%20Sum.md) **Hard**
 - [144-Binary Tree Preorder Traversal](problems/144-Binary%20Tree%20Preorder%20Traversal.md) **Medium**
