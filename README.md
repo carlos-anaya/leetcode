@@ -116,6 +116,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
 - [55-Jump Game](problems/55-Jump%20Game.md) **Medium**
 - [64-Minimum Path Sum](problems/64-Minimum%20Path%20Sum.md) **Medium**
+- [72-Edit Distance](problems/72-Edit%20Distance.md) **Hard**
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
 - [221-Maximal Square](problems/221-Maximal%20Square.md) **Medium**
 - [1143-Longest Common Subsequence](problems/1143-Longest%20Common%20Subsequence.md) **Medium**
