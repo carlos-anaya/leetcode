@@ -82,6 +82,9 @@ e | 4 | 4 | 3 | 3 | 3 | **2**
 
 **Time: O(W1 \* W2)** (W1 = w1.length, W2 = w2.length) <br> **Space: O(min(W1, W2))**
 
+Expansion of the algorithm presented in 
+[583-Delete Operation for Two Strings](583-Delete%20Operation%20for%20Two%20Strings.md)
+
 ### Go solution
 ```go
 func minDistance(word1 string, word2 string) int {
