@@ -142,6 +142,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Bit Manipulation
 - [136-Single Number](problems/136-Single%20Number.md) **Easy**
 - [201-Bitwise AND of Numbers Range](problems/201-Bitwise%20AND%20of%20Numbers%20Range.md) **Medium**
+- [338-Counting Bits](problems/338-Counting%20Bits.md) **Medium**
 - [476-Number Complement](problems/476-Number%20Complement.md) **Easy**
 
 ## Math
