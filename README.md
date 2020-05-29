@@ -87,6 +87,7 @@ Solutions in Go & Java of some Leetcode problems.
 
 ## Hashing
 - [49-Group Anagrams](problems/49-Group%20Anagrams.md) **Medium**
+- [128-Longest Consecutive Sequence](problems/128-Longest%20Consecutive%20Sequence.md) **Hard**
 - [383-Ransom Note](problems/383-Ransom%20Note.md) **Easy**
 - [387-First Unique Character in String](problems/387-First%20Unique%20Character%20in%20a%20String.md) **Easy**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
@@ -123,7 +124,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [583-Delete Operation for Two Strings](problems/583-Delete%20Operation%20for%20Two%20Strings.md) **Medium**
 - [1035-Uncrossed Lines](problems/1035-Uncrossed%20Lines.md) **Medium**
 - [1143-Longest Common Subsequence](problems/1143-Longest%20Common%20Subsequence.md) **Medium**
-- [1277-Count Square Submatrices with All Ones](1277-Count%20Square%20Submatrices%20with%20All%20Ones.md) **Medium**
+- [1277-Count Square Submatrices with All Ones](problems/1277-Count%20Square%20Submatrices%20with%20All%20Ones.md) **Medium**
 
 ## Sorting
 - [347-Top K Frequent Elements](problems/347-Top%20K%20Frequent%20Elements.md) **Medium**
