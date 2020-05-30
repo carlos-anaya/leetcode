@@ -55,6 +55,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [144-Binary Tree Preorder Traversal](problems/144-Binary%20Tree%20Preorder%20Traversal.md) **Medium**
 - [173-Binary Search Tree Iterator](problems/173-Binary%20Search%20Tree%20Iterator.md) **Medium**
 - [230-Kth Smallest Element in a BST](problems/230-Kth%20Smallest%20Element%20in%20a%20BST.md) **Medium**
+- [285-Inorder Successor in BST](285-Inorder%20Successor%20in%20BST.md) **Medium**
 - [298-Binary Tree Longest Consecutive Sequence](problems/298-Binary%20Tree%20Longest%20Consecutive%20Sequence.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
 - [968-Binary Tree Cameras](problems/968-Binary%20Tree%20Cameras.md) **Hard**
