@@ -53,6 +53,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Tree
 - [124-Binary Tree Maximum Path Sum](problems/124-Binary%20Tree%20Maximum%20Path%20Sum.md) **Hard**
 - [144-Binary Tree Preorder Traversal](problems/144-Binary%20Tree%20Preorder%20Traversal.md) **Medium**
+- [173-Binary Search Tree Iterator](problems/173-Binary%20Search%20Tree%20Iterator.md) **Medium**
 - [230-Kth Smallest Element in a BST](problems/230-Kth%20Smallest%20Element%20in%20a%20BST.md) **Medium**
 - [298-Binary Tree Longest Consecutive Sequence](problems/298-Binary%20Tree%20Longest%20Consecutive%20Sequence.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
@@ -143,6 +144,7 @@ Solutions in Go & Java of some Leetcode problems.
 
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
+- [173-Binary Search Tree Iterator](problems/173-Binary%20Search%20Tree%20Iterator.md) **Medium**
 - [xxx-First Unique Number](problems/xxx-First%20Unique%20Number.md) *(Queue & HashMap)* **Medium**
 
 ## Bit Manipulation
