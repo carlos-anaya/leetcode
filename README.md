@@ -24,6 +24,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [953-Verifying an Alien Dictionary](problems/953-Verifying%20an%20Alien%20Dictionary.md) **Easy**
 - [986-Interval List Intersections](problems/986-Interval%20List%20Intersections.md) **Medium**
 - [1232-Check If It Is a Straight Line](problems/1232-Check%20If%20It%20Is%20a%20Straight%20Line.md) **Easy**
+- [1249-Minimum Remove to Make Valid Parentheses](problems/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) **Medium**
 - [xxx-Counting Elements](problems/xxx-Counting%20Elements.md) **Easy**
 - [xxx-Leftmost Column with at Least a One](problems/xxx-Leftmost%20Column%20with%20at%20Least%20a%20One.md) **Easy**
 - [xxx-Perform String Shifts](problems/xxx-Perform%20String%20Shifts.md) **Easy**
@@ -48,6 +49,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
 - [901-Online Stock Span](problems/901-Online%20Stock%20Span.md) **Medium**
 - [1209-Remove All Adjacent Duplicates in String II](problems/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) **Medium**
+- [1249-Minimum Remove to Make Valid Parentheses](problems/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) **Medium**
 
 ## Queue
 - [239-Sliding Window Maximum](problems/239-Sliding%20Window%20Maximum.md) **Hard**
