@@ -20,6 +20,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [766-Toeplitz Matrix](problems/766-Toeplitz%20Matrix.md) **Easy**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
 - [918-Maximum Sum Circular Subarray](problems/918-Maximum%20Sum%20Circular%20Subarray.md) **Medium**
+- [953-Verifying an Alien Dictionary](problems/953-Verifying%20an%20Alien%20Dictionary.md) **Easy**
 - [986-Interval List Intersections](problems/986-Interval%20List%20Intersections.md) **Medium**
 - [1232-Check If It Is a Straight Line](problems/1232-Check%20If%20It%20Is%20a%20Straight%20Line.md) **Easy**
 - [xxx-Counting Elements](problems/xxx-Counting%20Elements.md) **Easy**
