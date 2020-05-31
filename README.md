@@ -122,6 +122,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [37-Sudoku Solver](problems/37-Sudoku%20Solver.md) **Hard**
 - [79-Word Search](problems/79-Word%20Search.md) **Medium**
 - [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
+- [212-Word Search II](problems/212-Word%20Search%20II.md) **Hard**
 - [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
 - [733-Flood Fill](problems/733-Flood%20Fill.md) **Easy**
 
