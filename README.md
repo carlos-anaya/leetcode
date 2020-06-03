@@ -113,6 +113,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 - [678-Valid Parenthesis String](problems/678-Valid%20Parenthesis%20String.md) **Medium**
 - [968-Binary Tree Cameras](problems/968-Binary%20Tree%20Cameras.md) **Hard**
+- [1029-Two City Scheduling](problems/1029-Two%20City%20Scheduling.md) **Easy**
 
 ## Recursion
 - [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
