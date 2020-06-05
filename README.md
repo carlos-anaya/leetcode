@@ -99,6 +99,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Hashing
 - [49-Group Anagrams](problems/49-Group%20Anagrams.md) **Medium**
 - [128-Longest Consecutive Sequence](problems/128-Longest%20Consecutive%20Sequence.md) **Hard**
+- [249-Group Shifted Strings](problems/249-Group%20Shifted%20Strings.md) **Medium**
 - [383-Ransom Note](problems/383-Ransom%20Note.md) **Easy**
 - [387-First Unique Character in String](problems/387-First%20Unique%20Character%20in%20a%20String.md) **Easy**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
