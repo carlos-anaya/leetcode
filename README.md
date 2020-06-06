@@ -84,7 +84,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [1057-Campus Bikes](problems/1057-Campus%20Bikes.md) **Medium**
 
 ## Graphs
-- [127-Word Ladder](problems/127-Word%20Ladder) **Medium**
+- [127-Word Ladder](problems/127-Word%20Ladder.md) **Medium**
 - [207-Course Schedule](problems/207-Course%20Schedule.md) **Medium**
 - [210-Course Schedule II](problems/210-Course%20Schedule%20II.md) **Medium**
 - [269-Alien Dictionary](problems/269-Alien%20Dictionary.md) **Hard**
@@ -124,6 +124,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Backtracking
 - [37-Sudoku Solver](problems/37-Sudoku%20Solver.md) **Hard**
 - [79-Word Search](problems/79-Word%20Search.md) **Medium**
+- [91-Decode Ways](problems/91-Decode%20Ways.md) **Medium**
 - [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
 - [212-Word Search II](problems/212-Word%20Search%20II.md) **Hard**
 - [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
@@ -134,6 +135,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [55-Jump Game](problems/55-Jump%20Game.md) **Medium**
 - [64-Minimum Path Sum](problems/64-Minimum%20Path%20Sum.md) **Medium**
 - [72-Edit Distance](problems/72-Edit%20Distance.md) **Hard**
+- [91-Decode Ways](problems/91-Decode%20Ways.md) **Medium**
 - [139-Word Break](problems/139-Word%20Break.md) **Medium**
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
 - [221-Maximal Square](problems/221-Maximal%20Square.md) **Medium**
