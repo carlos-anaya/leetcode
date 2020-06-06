@@ -134,6 +134,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [55-Jump Game](problems/55-Jump%20Game.md) **Medium**
 - [64-Minimum Path Sum](problems/64-Minimum%20Path%20Sum.md) **Medium**
 - [72-Edit Distance](problems/72-Edit%20Distance.md) **Hard**
+- [139-Word Break](problems/139-Word%20Break.md) **Medium**
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
 - [221-Maximal Square](problems/221-Maximal%20Square.md) **Medium**
 - [583-Delete Operation for Two Strings](problems/583-Delete%20Operation%20for%20Two%20Strings.md) **Medium**
