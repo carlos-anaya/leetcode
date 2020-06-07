@@ -140,6 +140,8 @@ Solutions in Go & Java of some Leetcode problems.
 - [139-Word Break](problems/139-Word%20Break.md) **Medium**
 - [174-Dungeon Game](problems/174-Dungeon%20Game.md) **Hard**
 - [221-Maximal Square](problems/221-Maximal%20Square.md) **Medium**
+- [322-Coin Change](problems/322-Coin%20Change.md) **Medium**
+- [518-Coin Change 2](problems/518-Coin%20Change%202.md) **Medium**
 - [583-Delete Operation for Two Strings](problems/583-Delete%20Operation%20for%20Two%20Strings.md) **Medium**
 - [1035-Uncrossed Lines](problems/1035-Uncrossed%20Lines.md) **Medium**
 - [1143-Longest Common Subsequence](problems/1143-Longest%20Common%20Subsequence.md) **Medium**
