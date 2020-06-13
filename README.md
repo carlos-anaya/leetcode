@@ -15,6 +15,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [283-Move Zeroes](problems/283-Move%20Zeroes.md) **Easy**
 - [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 - [463-Island Perimeter](problems/463-Island%20Perimeter.md) **Easy**
+- [523-Continuous Subarray Sum](523-Continuous%20Subarray%20Sum.md) **Medium**
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
 - [680-Valid Palindrome II](problems/680-Valid%20Palindrome%20II.md) **Easy**
@@ -44,7 +45,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [394-Decode String](problems/394-Decode%20String.md) **Medium**
 - [402-Remove K Digits](problems/402-Remove%20K%20Digits.md) **Medium**
 - [496-Next Greater Element I](problems/496-Next%20Greater%20Element%20I.md) **Easy**
-- [503-Next Greater Element II](problems/496-Next%20Greater%20Element%20II.md) **Medium**
+- [503-Next Greater Element II](problems/503-Next%20Greater%20Element%20II.md) **Medium**
 - [739-Daily Temperatures](problems/739-Daily%20Temperatures.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
 - [901-Online Stock Span](problems/901-Online%20Stock%20Span.md) **Medium**
@@ -160,7 +161,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Strings
 - [76-Minimum Window Substring](problems/76-Minimum%20Window%20Substring.md) **Hard**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
-- [556-Next Greater Element III](problems/496-Next%20Greater%20Element%20III.md) **Medium**
+- [556-Next Greater Element III](problems/556-Next%20Greater%20Element%20III.md) **Medium**
 
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
