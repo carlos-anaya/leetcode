@@ -168,6 +168,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [173-Binary Search Tree Iterator](problems/173-Binary%20Search%20Tree%20Iterator.md) **Medium**
 - [380-Insert Delete GetRandom O(1)](problems/380-Insert%20Delete%20GetRandom%20O(1).md) **Medium**
 - [381-Insert Delete GetRandom O(1) - Duplicates allowed](problems/381-Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md) **Hard**
+- [1352-Product of the Last K Numbers](problems/1352-Product%20of%20the%20Last%20K%20Numbers.md) **Medium**
 - [xxx-First Unique Number](problems/xxx-First%20Unique%20Number.md) *(Queue & HashMap)* **Medium**
 
 ## Bit Manipulation
