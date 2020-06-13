@@ -162,6 +162,8 @@ Solutions in Go & Java of some Leetcode problems.
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
 - [173-Binary Search Tree Iterator](problems/173-Binary%20Search%20Tree%20Iterator.md) **Medium**
+- [380-Insert Delete GetRandom O(1)](problems/380-Insert%20Delete%20GetRandom%20O(1).md) **Medium**
+- [381-Insert Delete GetRandom O(1) - Duplicates allowed](problems/381-Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md) **Hard**
 - [xxx-First Unique Number](problems/xxx-First%20Unique%20Number.md) *(Queue & HashMap)* **Medium**
 
 ## Bit Manipulation
