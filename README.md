@@ -18,6 +18,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [523-Continuous Subarray Sum](523-Continuous%20Subarray%20Sum.md) **Medium**
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
+- [581-Shortest Unsorted Continuous Subarray](problems/581-Shortest%20Unsorted%20Continuous%20Subarray.md) **Easy**
 - [680-Valid Palindrome II](problems/680-Valid%20Palindrome%20II.md) **Easy**
 - [766-Toeplitz Matrix](problems/766-Toeplitz%20Matrix.md) **Easy**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
