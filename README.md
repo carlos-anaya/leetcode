@@ -93,6 +93,9 @@ Solutions in Go & Java of some Leetcode problems.
 - [886-Possible Bipartition](problems/886-Possible%20Bipartition.md) **Medium**
 - [997-Find the Town Judge](problems/997-Find%20the%20Town%20Judge.md) **Easy**
 
+## BFS
+- [286-Walls and Gates](problems/286-Walls%20and%20Gates.md) **Medium**
+
 ## Trie
 - [208-Implement Trie (Prefix Tree)](problems/208-Implement%20Trie%20(Prefix%20Tree).md) **Medium**
 - [211-Add and Search Word - Data structure design](problems/211-Add%20and%20Search%20Word%20-%20Data%20structure%20design.md) **Medium**
