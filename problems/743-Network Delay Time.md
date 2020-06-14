@@ -29,7 +29,8 @@ Since the graph is **weighted**, a simple *BFS traversal* won't work, then we ne
   - In case visited doesn't contain all the nodes, then return -1. I.e. not all nodes are reachable
   from current K.
 
-**Time: O(n) <br> Space: O(n)**
+**Time: O(E\*logE)** (potentially every edge is added to the heap) <br> 
+**Space: O(E + V)** (the graph and heap have size E, delays set has size V)
 
 ### Java solution
 ```java
