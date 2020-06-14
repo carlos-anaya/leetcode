@@ -92,6 +92,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [210-Course Schedule II](problems/210-Course%20Schedule%20II.md) **Medium**
 - [269-Alien Dictionary](problems/269-Alien%20Dictionary.md) **Hard**
 - [277-Find the Celebrity](problems/277-Find%20the%20Celebrity.md) **Medium**
+- [785-Is Graph Bipartite](problems/785-Is%20Graph%20Bipartite.md) **Medium**
 - [886-Possible Bipartition](problems/886-Possible%20Bipartition.md) **Medium**
 - [997-Find the Town Judge](problems/997-Find%20the%20Town%20Judge.md) **Easy**
 
