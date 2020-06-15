@@ -70,6 +70,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [993-Cousins in Binary Tree](problems/993-Cousins%20in%20Binary%20Tree.md) **Easy**
 - [1008-Construct Binary Search Tree from Preorder Traversal](problems/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) **Medium**
 - [1110-Delete Nodes And Return Forest](problems/1110-Delete%20Nodes%20And%20Return%20Forest.md) **Medium**
+- [1123-Lowest Common Ancestor of Deepest Leaves](problems/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.md) **Medium**
 - [1325-Delete Leaves With a Given Value](problems/1325-Delete%20Leaves%20With%20a%20Given%20Value.md) **Medium**
 
 ## Binary Search
