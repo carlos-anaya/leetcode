@@ -15,7 +15,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [283-Move Zeroes](problems/283-Move%20Zeroes.md) **Easy**
 - [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
 - [463-Island Perimeter](problems/463-Island%20Perimeter.md) **Easy**
-- [523-Continuous Subarray Sum](523-Continuous%20Subarray%20Sum.md) **Medium**
+- [523-Continuous Subarray Sum](problems/523-Continuous%20Subarray%20Sum.md) **Medium**
 - [525-Contiguous Array](problems/525-Contiguous%20Array.md) **Medium**
 - [560-Subarray Sum Equals K](problems/560-Subarray%20Sum%20Equals%20K.md) **Medium**
 - [581-Shortest Unsorted Continuous Subarray](problems/581-Shortest%20Unsorted%20Continuous%20Subarray.md) **Easy**
@@ -62,7 +62,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [173-Binary Search Tree Iterator](problems/173-Binary%20Search%20Tree%20Iterator.md) **Medium**
 - [199-Binary Tree Right Side View](problems/199-Binary%20Tree%20Right%20Side%20View.md) **Medium**
 - [230-Kth Smallest Element in a BST](problems/230-Kth%20Smallest%20Element%20in%20a%20BST.md) **Medium**
-- [285-Inorder Successor in BST](285-Inorder%20Successor%20in%20BST.md) **Medium**
+- [285-Inorder Successor in BST](problems/285-Inorder%20Successor%20in%20BST.md) **Medium**
 - [298-Binary Tree Longest Consecutive Sequence](problems/298-Binary%20Tree%20Longest%20Consecutive%20Sequence.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
 - [968-Binary Tree Cameras](problems/968-Binary%20Tree%20Cameras.md) **Hard**
@@ -165,6 +165,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [1057-Campus Bikes](problems/1057-Campus%20Bikes.md) **Medium**
 
 ## Strings
+- [67-Add Binary](problems/67-Add%20Binary.md) **Easy**
 - [76-Minimum Window Substring](problems/76-Minimum%20Window%20Substring.md) **Hard**
 - [415-Add Strings](problems/415-Add%20Strings.md) **Easy**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**

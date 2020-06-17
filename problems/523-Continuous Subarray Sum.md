@@ -46,6 +46,7 @@ of the last number added to the sum, then if at any point we find that that valu
 index of the found value in the map).
 
 - **Example**: (k=6)
+
 idx | 0 | 1 | 2 | 3 | 4
 --- | --- | --- | --- | --- | ---
 nums | 23 | 2 | 6 | 4 | 7 
