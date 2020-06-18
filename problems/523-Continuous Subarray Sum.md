@@ -54,9 +54,9 @@ sum | 23 | 25 | 31 | 35 | 42
 sum % k | **5** | 1 | 1\* | **5** | 0\*\* 
 
 \* - Here we have found a rem = 1, that previously existed, but this is not valid since they're
-  next to each other, meaning there's only one number multiple of `k`, in this case 6.
+  next to each other, meaning there's only one number multiple of `k`, in this case 6. <br>
 \*\* - Here we have found rem = 0, which is valid, then we need a base value in the map to consider
-  that escenario (map.put(0, -1))
+  that escenario (map.put(0, -1)) <br>
 **5** we have found a rem = 5 that previously existed, meaning that we have a subarray from i + 1 to
   j that has a sum multiple of `k`. This is from index 1 to 3 (2,6,4).
 

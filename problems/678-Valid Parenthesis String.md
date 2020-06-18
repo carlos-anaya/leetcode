@@ -66,7 +66,8 @@ or remain the same. E.g.
 | count | 1 | 2 | 1, 2 or 3 | 0, 1 or 2 | 0 or 1 |
 
 Then, we can use two vars, say `hi` and `lo`, to keep track of the limits set by the `*'s`. For each
-`(` we *hi++ and lo--* (like a regular count variable). But when we have a `*`, we *hi++ and lo--*.
+`(` we *hi++ and lo++* (like a regular count variable) and for each `)` we *hi-- and lo--*. But when
+we have a `*`, we *hi++ and lo--*.
 
 | string | ( | ( | * | ) | ) |
 | --- | --- | --- | --- | --- | --- |
