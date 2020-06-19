@@ -139,6 +139,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [91-Decode Ways](problems/91-Decode%20Ways.md) **Medium**
 - [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
 - [212-Word Search II](problems/212-Word%20Search%20II.md) **Hard**
+- [489-Robot Room Cleaner](problems/489-Robot%20Room%20Cleaner.md)
 - [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
 - [733-Flood Fill](problems/733-Flood%20Fill.md) **Easy**
 
