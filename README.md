@@ -50,6 +50,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [739-Daily Temperatures](problems/739-Daily%20Temperatures.md) **Medium**
 - [844-Backspace String Compare](problems/844-Backspace%20String%20Compare.md) **Easy**
 - [901-Online Stock Span](problems/901-Online%20Stock%20Span.md) **Medium**
+- [946-Validate Stack Sequences](problems/946-Validate%20Stack%20Sequences.md) **Medium**
 - [1209-Remove All Adjacent Duplicates in String II](problems/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) **Medium**
 - [1249-Minimum Remove to Make Valid Parentheses](problems/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) **Medium**
 
