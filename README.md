@@ -132,6 +132,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Recursion
 - [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
 - [241-Different Ways to Add Parentheses](problems/241-Different%20Ways%20to%20Add%20Parentheses.md) **Medium**
+- [1066-Campus Bikes II](problems/1066-Campus%20Bikes%20II.md) **Medium**
 
 ## Backtracking
 - [37-Sudoku Solver](problems/37-Sudoku%20Solver.md) **Hard**
