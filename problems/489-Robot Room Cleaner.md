@@ -42,6 +42,16 @@ All grids in the room are marked by either 0 or 1. <br>
 The robot initially starts at the position of row=1, col=3. <br>
 From the top left corner, its position is one row below and three columns right.
 
+**Notes**:
+1. The input is only given to initialize the room and the robot's position internally. You must 
+  solve this problem "blindfolded". In other words, you must control the robot using only the 
+  mentioned 4 APIs, without knowing the room layout and the initial robot's position.
+2. The robot's initial position will always be in an accessible cell.
+3. The initial direction of the robot will be facing up.
+4. All accessible cells are connected, which means the all cells marked as 1 will be accessible by 
+  the robot.
+5. Assume all four edges of the grid are all surrounded by wall.
+
 ## Optimal
 Use a `backtracking DFS` approach. Move the robot in a *clockwise* manner, and marking cells as
 *visited* as we clean them. Whenever there's an obstacle (robot can't move) or a cell has been
@@ -54,7 +64,7 @@ we rotate 180 degrees, move and then rotate again 180 degrees.
 
 ![alt room](https://leetcode.com/problems/robot-room-cleaner/Figures/489/489_implementation.png)
 
-**Time: O(n) <brSpace: O(n)**
+**Time: O(N-M)** (N -> number of cells in room, M -> number of obstacles) <br> **Space: O(N-M)**
 
 ### Go solution
 ```go
