@@ -111,6 +111,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [211-Add and Search Word - Data structure design](problems/211-Add%20and%20Search%20Word%20-%20Data%20structure%20design.md) **Medium**
 
 ## Hashing
+- [1-Two Sum](problems/1-Two%20Sum.md) **Easy**
 - [49-Group Anagrams](problems/49-Group%20Anagrams.md) **Medium**
 - [128-Longest Consecutive Sequence](problems/128-Longest%20Consecutive%20Sequence.md) **Hard**
 - [249-Group Shifted Strings](problems/249-Group%20Shifted%20Strings.md) **Medium**
