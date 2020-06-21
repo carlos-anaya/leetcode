@@ -174,6 +174,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [415-Add Strings](problems/415-Add%20Strings.md) **Easy**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
 - [556-Next Greater Element III](problems/556-Next%20Greater%20Element%20III.md) **Medium**
+- [809-Expressive Words](problems/809-Expressive%20Words.md) **Medium**
 
 ## Custom Data Structures
 - [146-LRU Cache](problems/146-LRU%20Cache.md) **Medium**
