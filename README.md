@@ -64,6 +64,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [199-Binary Tree Right Side View](problems/199-Binary%20Tree%20Right%20Side%20View.md) **Medium**
 - [230-Kth Smallest Element in a BST](problems/230-Kth%20Smallest%20Element%20in%20a%20BST.md) **Medium**
 - [285-Inorder Successor in BST](problems/285-Inorder%20Successor%20in%20BST.md) **Medium**
+- [297-Serialize and Deserialize Binary Tree](problems/297-Serialize%20and%20Deserialize%20Binary%20Tree.md) **Hard**
 - [298-Binary Tree Longest Consecutive Sequence](problems/298-Binary%20Tree%20Longest%20Consecutive%20Sequence.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
 - [968-Binary Tree Cameras](problems/968-Binary%20Tree%20Cameras.md) **Hard**
