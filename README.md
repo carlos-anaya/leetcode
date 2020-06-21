@@ -174,6 +174,7 @@ Solutions in Go & Java of some Leetcode problems.
 ## Strings
 - [67-Add Binary](problems/67-Add%20Binary.md) **Easy**
 - [76-Minimum Window Substring](problems/76-Minimum%20Window%20Substring.md) **Hard**
+- [340-Longest Substring with At Most K Distinct Characters](problems/340-Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md) **Hard**
 - [415-Add Strings](problems/415-Add%20Strings.md) **Easy**
 - [438-Find All Anagrams in a String](problems/438-Find%20All%20Anagrams%20in%20a%20String.md) **Medium**
 - [556-Next Greater Element III](problems/556-Next%20Greater%20Element%20III.md) **Medium**
