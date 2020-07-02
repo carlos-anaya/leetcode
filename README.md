@@ -80,6 +80,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [278-First Bad Version](problems/278-First%20Bad%20Version.md) **Easy**
 - [367-Valid Perfect Square](problems/367-Valid%20Perfect%20Square.md) **Easy**
 - [410-Split Array Largest Sum](problems/410-Split%20Array%20Largest%20Sum.md) **Hard**
+- [441-Arranging Coins](problems/441-Arranging%20Coins.md) **Easy**
 - [540-Single Element in a Sorted Array](problems/540-Single%20Element%20in%20a%20Sorted%20Array.md) **Medium**
 
 ## Heap
