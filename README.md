@@ -67,6 +67,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [297-Serialize and Deserialize Binary Tree](problems/297-Serialize%20and%20Deserialize%20Binary%20Tree.md) **Hard**
 - [298-Binary Tree Longest Consecutive Sequence](problems/298-Binary%20Tree%20Longest%20Consecutive%20Sequence.md) **Medium**
 - [543-Diameter of Binary Tree](problems/543-Diameter%20of%20Binary%20Tree.md) **Easy**
+- [662-Maximum Width of Binary Tree](problems/662-Maximum%20Width%20of%20Binary%20Tree.md) **Medium**
 - [968-Binary Tree Cameras](problems/968-Binary%20Tree%20Cameras.md) **Hard**
 - [979-Distribute Coins in Binary Tree](problems/979-Distribute%20Coins%20in%20Binary%20Tree.md) **Medium**
 - [993-Cousins in Binary Tree](problems/993-Cousins%20in%20Binary%20Tree.md) **Easy**
