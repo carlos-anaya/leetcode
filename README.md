@@ -139,16 +139,7 @@ Solutions in Go & Java of some Leetcode problems.
 - [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
 - [241-Different Ways to Add Parentheses](problems/241-Different%20Ways%20to%20Add%20Parentheses.md) **Medium**
 - [1066-Campus Bikes II](problems/1066-Campus%20Bikes%20II.md) **Medium**
-
-## Backtracking
-- [37-Sudoku Solver](problems/37-Sudoku%20Solver.md) **Hard**
-- [79-Word Search](problems/79-Word%20Search.md) **Medium**
-- [91-Decode Ways](problems/91-Decode%20Ways.md) **Medium**
-- [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
-- [212-Word Search II](problems/212-Word%20Search%20II.md) **Hard**
-- [489-Robot Room Cleaner](problems/489-Robot%20Room%20Cleaner.md) **Hard**
-- [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
-- [733-Flood Fill](problems/733-Flood%20Fill.md) **Easy**
+- [1320-Minimum Distance to Type a Word Using Two Fingers](problems/1320-Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md) **Hard**
 
 ## Dynamic Programming
 - [10-Regular Expression Matching](problems/10-Regular%20Expression%20Matching.md) **Hard**
@@ -165,6 +156,17 @@ Solutions in Go & Java of some Leetcode problems.
 - [1035-Uncrossed Lines](problems/1035-Uncrossed%20Lines.md) **Medium**
 - [1143-Longest Common Subsequence](problems/1143-Longest%20Common%20Subsequence.md) **Medium**
 - [1277-Count Square Submatrices with All Ones](problems/1277-Count%20Square%20Submatrices%20with%20All%20Ones.md) **Medium**
+- [1320-Minimum Distance to Type a Word Using Two Fingers](problems/1320-Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md) **Hard**
+
+## Backtracking
+- [37-Sudoku Solver](problems/37-Sudoku%20Solver.md) **Hard**
+- [79-Word Search](problems/79-Word%20Search.md) **Medium**
+- [91-Decode Ways](problems/91-Decode%20Ways.md) **Medium**
+- [200-Number of Islands](problems/200-Number%20of%20Islands.md) **Medium**
+- [212-Word Search II](problems/212-Word%20Search%20II.md) **Hard**
+- [489-Robot Room Cleaner](problems/489-Robot%20Room%20Cleaner.md) **Hard**
+- [695-Max Area of Island](problems/695-Max%20Area%20of%20Island.md) **Medium**
+- [733-Flood Fill](problems/733-Flood%20Fill.md) **Easy**
 
 ## Sorting
 - [215-Kth Largest Element in an Array](problems/215-Kth%20Largest%20Element%20in%20an%20Array.md) **Medium**
